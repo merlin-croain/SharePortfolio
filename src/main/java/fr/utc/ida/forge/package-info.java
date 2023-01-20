@@ -21,5 +21,4 @@
 * @author alexiscampan
 * @version 1.0
 */
-package com.domain;
 package fr.utc.ida.forge;
